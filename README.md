@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**akis19/akis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🔭 I’m currently working on
+...a project that will supposedly make the Wii Mini SD card slot mod easier for beginners.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🤔 I’m looking for help with 
+...my project that is described above
+
+# 📫 How to reach me:
+Discord is my preferred way of you contacting me. My username is akis_19#2545.
+
+That's it. 
+
+### :)
+
+
+
+
+
