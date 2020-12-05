@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-I am Akis, a student interested in hardware. I like assembling circuits and modding consoles. 
-
-# 🔭 I’m currently working on
-...a project that will supposedly make the Wii Mini SD card slot mod easier for beginners.
-
-
-# 🤔 I’m looking for help with 
-...my project that is described above
-
-# 📫 How to reach me:
-Discord is my preferred way of you contacting me. My username is akis_19#2545.
+I am Akis, a student interested in many different things like assembling circuits, modding consoles and lurking on discord servers. I am now designing 2 PCBs that would help in SD modding Wii Minis. I don't plan on learning programming languages as I find them really boring. 
 
 
 
