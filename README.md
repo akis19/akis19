@@ -9,7 +9,7 @@ Some stuff that I use:
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-20.10-lightgrey?style=for-the-badge&logo=Ubuntu)
 ![Discord](https://img.shields.io/badge/Discord-akisblack%202545-lightgrey?style=for-the-badge&logo=Discord)
 ![Reddit](https://img.shields.io/badge/Reddit-akisblack-lightgrey?style=for-the-badge&logo=Reddit)
-![Twitter](https://img.shields.io/badge/Twitter-akisblack_.-lightgrey?style=for-the-badge&logo=Twitter)
+![Twitter](https://img.shields.io/badge/Twitter-@akisblack_%-lightgrey?style=for-the-badge&logo=Twitter)
 
 ### That's it. 
 
