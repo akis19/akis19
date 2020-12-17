@@ -5,7 +5,7 @@ I am Akis, a student interested in many different things like assembling circuit
 Some stuff that I use:
 
 ![Windows](https://img.shields.io/badge/Windows%2010-20H2-lightgrey?style=for-the-badge&logo=Windows)
-
+![GitHub](https://img.shields.io/badge/GitHub-akisblack-lightgrey?style=for-the-badge&logo=Github)
 
 
 
