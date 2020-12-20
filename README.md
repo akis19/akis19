@@ -11,8 +11,11 @@ Some stuff that I use:
 ![Spotify](https://img.shields.io/badge/Spotify-akisblack-lightgrey?style=for-the-badge&logo=spotify)
 ![Discord](https://img.shields.io/badge/Discord-akisblack%202545-lightgrey?style=for-the-badge&logo=Discord)
 ![Reddit](https://img.shields.io/badge/Reddit-akisblack-lightgrey?style=for-the-badge&logo=Reddit)
+![Firefox](https://www.shields.io/badge/Firefox-nightly-lightgrey?logo=firefox&style=for-the-badge)
 ![Twitter](https://img.shields.io/badge/Twitter-@akisblack_-lightgrey?style=for-the-badge&logo=Twitter) _
 
+
+https://www.shields.io/badge/Firefox-nightly-lightgrey?logo=firefox&style=for-the-badge
 ### That's it. 
 
  :)
