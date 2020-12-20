@@ -15,7 +15,6 @@ Some stuff that I use:
 ![Twitter](https://img.shields.io/badge/Twitter-@akisblack_-lightgrey?style=for-the-badge&logo=Twitter) _
 
 
-https://www.shields.io/badge/Firefox-nightly-lightgrey?logo=firefox&style=for-the-badge
 ### That's it. 
 
  :)
