@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Akis, a student from Greeceinterested in many different things like soldering, modding consoles and lurking on discord servers. I am now designing 2 PCBs that would help in SD modding Wii minis as well as trying to make a discord bot to help people hack their Wiis with the most up to date info at their disposal.
+I am Akis, a student from Greece interested in many different things like soldering, modding consoles and lurking on discord servers. I am now designing 2 PCBs that would help in SD modding Wii minis as well as trying to make a discord bot to help people hack their Wiis with the most up to date info at their disposal.
 
 Some stuff that I use:
 
