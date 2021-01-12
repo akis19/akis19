@@ -4,8 +4,7 @@ I am Akis, a student from Greece interested in many different things like solder
 
 ## Tech I use:
 
-![VSCode](https://img.shields.io/static/v1?label=VS Code&message=User&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo--E37151?style=for-the-badge&logo=duckduckgo)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
 ![Windows](https://img.shields.io/badge/Windows%2010-20H2-00a4ef?style=for-the-badge&logo=Windows)
 ![GitHub](https://img.shields.io/badge/GitHub-akisblack-white?style=for-the-badge&logo=Github)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-20.10-E95420?style=for-the-badge&logo=Ubuntu)
