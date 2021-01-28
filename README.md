@@ -4,7 +4,7 @@ I am Akis, a student from Greece interested in many different things like solder
 
 ## Tech I use
 
-![Windows](https://img.shields.io/badge/Windows%2010-20H2-00a4ef?style=for-the-badge&logo=Windows)
+![Windows](https://img.shields.io/badge/Windows%2010&labelColor=17181c&-20H2-00a4ef?style=for-the-badge&logo=Windows)
 ![Tumbleweed](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
 ![Firefox](https://www.shields.io/badge/Firefox-stable-FF9500?logo=firefox&style=for-the-badge)
