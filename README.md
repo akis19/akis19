@@ -1,6 +1,6 @@
 ## Bio
 
-I am Akis, a student from Greece interested in many different things like soldering, modding consoles and lurking on discord servers. 
+I am Akis, a student from Greece interested in many different things like soldering and modding consoles.
 
 ## Tech I use
 
@@ -12,7 +12,7 @@ I am Akis, a student from Greece interested in many different things like solder
 
 ## What I am doing right now
 
-1. Designing 2 PCBs that will make SD modding Wii minis easier
+1. Designing 2 PCBs that will make SD modding Wii minis easier.
 2. Coding 2 Discord bots in JavaScript and Python to help users hack their Wii with all the up to date info at their disposal.
 
 ## Where to contact me
