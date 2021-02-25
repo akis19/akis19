@@ -4,11 +4,11 @@ I am Akis, a student from Greece interested in many different things like solder
 
 ## Tech I use
 
-![Windows](https://img.shields.io/badge/Windows%2010-20H2-00a4ef?style=for-the-badge&logo=Windows)
+![Windows](https://img.shields.io/badge/Windows%2010-20H2-272727?style=for-the-badge&logo=Windows)
 ![KDENeon](https://img.shields.io/static/v1?label=KDENeon&message=20.10&style=for-the-badge&color=272727&logo=KDE)
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
-![Firefox](https://www.shields.io/badge/Firefox-Nightly-FF9500?logo=firefox&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-akisblack-000000?style=for-the-badge&logo=Github)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=User&style=for-the-badge&color=272727&logo=Visual-Studio-Code)
+![Firefox](https://www.shields.io/badge/Firefox-Nightly-272727?logo=firefox&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-akisblack-272727?style=for-the-badge&logo=Github)
 
 ## What I am doing right now
 
