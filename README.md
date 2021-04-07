@@ -17,7 +17,7 @@ I am Akis, a student from Greece interested in many different things like solder
 
 ## Where to contact me
 
-Discord is my preffered way of contacting me. akisblack#2545
+Discord is my preffered way of contacting me. akisblack#0990
 
 
 
