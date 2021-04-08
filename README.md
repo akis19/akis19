@@ -19,13 +19,9 @@ I am Akis, a student from Greece interested in many different things like solder
 ## Stats
 
 [![akisblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=akisblack&count_private=true&show_icons=true&theme=cobalt)](https://github.com/akisblack/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akisblack&langs_count=10&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
 - [E-Mail](mailto:akisblack0@gmail.com)
 - Discord: akisblack#0990
-
-
-
-
-
