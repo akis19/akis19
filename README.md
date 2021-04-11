@@ -24,4 +24,4 @@ I am Akis, a student from Greece interested in many different things like solder
 ## Contact
 
 - [E-Mail](mailto:akisblack0@gmail.com)
-- Discord: akisblack#0990
+- Discord: akisblack#6969
