@@ -1,7 +1,3 @@
-## Bio
-
-I am Akis, a student from Greece interested in many different things like soldering and modding consoles.
-
 ## Tools
 
 - ![Windows](https://img.shields.io/badge/Windows-10-272727?style=for-the-badge&logo=Windows)
@@ -10,18 +6,10 @@ I am Akis, a student from Greece interested in many different things like solder
 - ![Firefox](https://www.shields.io/badge/Firefox-Nightly-272727?logo=firefox&style=for-the-badge)
 - ![GitHub](https://img.shields.io/badge/GitHub-akisblack-272727?style=for-the-badge&logo=Github)
 
-## Active Projects
-
-- [Wii Support Bot](https://GitHub.com/akisblack/Wii-Support-Bot)
-- [Wiini SDii](https://GitHub.com/Devnol/Miini-HWKit)
-- [My Website](https://GitHub.com/akisblack/akisblack.github.io)
-
 ## Stats
 
 [![akisblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=akisblack&count_private=true&show_icons=true&theme=cobalt)](https://github.com/akisblack/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akisblack&langs_count=10&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
+*You can find extra info at [my website](https:akisblack.github.io)*
 
-- [E-Mail](mailto:akisblack0@gmail.com)
-- Discord: akisblack#6969
