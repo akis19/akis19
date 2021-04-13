@@ -13,7 +13,7 @@
 
 ## Repos
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akisblack&repo=akisblack.github.io&theme=dark)](https://github.com/akisblack/akisblack.github.io)
+<!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akisblack&repo=akisblack.github.io&theme=dark)](https://github.com/akisblack/akisblack.github.io)
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akisblack&repo=Wii-Support-Bot&theme=dark)](https://github.com/akisblack/Wii-Support-Bot)
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Devnol&repo=Miini-hwkit&theme=dark)](https://github.com/Devnol/Miini-hwkit)
 
