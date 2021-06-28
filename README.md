@@ -1,9 +1,9 @@
 ## Tools
 
-![Windows](https://www.shields.io/badge/Windows-10-272727?logo=windows&style=for-the-badge)
-![VSCode](https://www.shields.io/badge/VSCode-Stable-272727?logo=visual-studio-code&style=for-the-badge)
-![Firefox](https://www.shields.io/badge/Firefox-Stable-272727?logo=firefox-browser&style=for-the-badge)
-![GitHub](https://www.shields.io/badge/GitHub-akisblack-272727?logo=github&style=for-the-badge)
+![Windows](https://shields.io/static/v1?label=windows%2010&message=stable&labelColor=272727&color=0078D6&style=for-the-badge&logo=windows)
+![VSCode](https://shields.io/static/v1?label=vscode&message=stable&labelColor=272727&color=007ACC&style=for-the-badge&logo=visualstudiocode)
+![Firefox](https://shields.io/static/v1?label=firefox&message=stable&labelColor=272727&color=ee8424&style=for-the-badge&logo=firefoxbrowser)
+![GitHub](https://shields.io/static/v1?label=github&message=akisblack&labelColor=272727&color=181717&style=for-the-badge&logo=github)
 
 ## Stats
 
@@ -11,3 +11,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akisblack&langs_count=10&theme=dark)
 
 *You can find extra info at [my website](https://akisblack.github.io)*
+
+
