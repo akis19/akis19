@@ -1,7 +1,7 @@
 <h2><b>Tools</b></h2>
 
 <a href="https://windows.com"><img src="https://shields.io/static/v1?label=windows%2010&message=stable&labelColor=272727&color=0078D6&style=for-the-badge&logo=windows"></a><br>
-<a href="https://vscodium"><img src="https://shields.io/static/v1?label=vscodium&message=stable&labelColor=272727&color=007ACC&style=for-the-badge&logo=visualstudiocode"></a><br></a><br>
+<a href="https://vscodium"><img src="https://shields.io/static/v1?label=vscodium&message=stable&labelColor=272727&color=007ACC&style=for-the-badge&logo=visualstudiocode"></a><br>
 <a href="https://firefox.com"><img src="https://shields.io/static/v1?label=firefox&message=stable&labelColor=272727&color=ee8424&style=for-the-badge&logo=firefoxbrowser"></a><br>
 <a href="https://github.com"><img src="https://shields.io/static/v1?label=github&message=akisblack&labelColor=272727&color=181717&style=for-the-badge&logo=github"></a>
 
