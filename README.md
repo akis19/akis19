@@ -16,10 +16,10 @@
 
 ## Stats
 
-![Metrics](https://metrics.lecoq.io/akisblack?template=classic&isocalendar=1&languages=1&gists=1&lines=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=akisblack.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FAthens&config.twemoji=true)
+<!--![Metrics](https://metrics.lecoq.io/akisblack?template=classic&isocalendar=1&languages=1&gists=1&lines=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=akisblack.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FAthens&config.twemoji=true)-->
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=akisblack&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide_rank=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akisblack&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=true)-->
+![Stats](https://github-readme-stats.vercel.app/api?username=akisblack&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide_rank=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akisblack&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=true)
 
 ---
 
